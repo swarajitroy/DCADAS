@@ -6,3 +6,8 @@
 
 ## Spark DataFrame API
 ---
+
+| ID | Topic |
+| ----------- | ----------- |
+| 1 | selecting, renaming and manipulating columns |
+| 2 | Text |
